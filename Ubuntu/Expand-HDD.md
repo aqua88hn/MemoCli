@@ -1,5 +1,5 @@
 
- ## [Expand Ubuntu disk] (http://linguist.is/2020/08/12/expand-ubuntu-disk-after-hyper-v-quick-create/)
+ ## [Expand Ubuntu disk](http://linguist.is/2020/08/12/expand-ubuntu-disk-after-hyper-v-quick-create/)
 It is quick and easy to use Hyper-V Quick Create to get an Ubuntu virtual machine running on a Windows 10 computer.
 However, if this method is used, you may end up with a tiny Ubuntu virtual disk that will not be useful for any serious work and it is less obvious than the initial setup how to increase the size of this disk.
 These steps fix the problem:
