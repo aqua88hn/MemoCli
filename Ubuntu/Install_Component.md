@@ -29,6 +29,8 @@ source ~/.bashrc
 nvm install node 
 nvm install 12
 nvm install --lts 
+nvm list
+nvm use default 12
 nvm run default --version 
 # uninstall
 nvm uninstall 18.16.0 
