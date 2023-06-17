@@ -1,4 +1,6 @@
 ## Basic Command On Ubuntu 
+Open terminal Ctrl+Alt+T
+
 1. sudo. 
 sudo (SuperUser DO) Linux command allows you to run programs or other commands with administrative privileges, just like “Run as administrator” in Windows.
 This is useful when, for example, you need to modify files in a directory that your user wouldn’t normally have access to.
