@@ -1,6 +1,7 @@
 # Memo Cli
 ## Ubuntu - Shell
 Open Terminal : Ctrl+Alt+T
+
 [Basic ubuntu ](https://github.com/aqua88hn/MemoCli/blob/main/Ubuntu/BasicCLI.md) - 
 [Install Component](https://github.com/aqua88hn/MemoCli/blob/main/Ubuntu/Install_Component.md)
 
